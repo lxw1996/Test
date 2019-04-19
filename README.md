@@ -1,5 +1,7 @@
 # Test
 This is the first time to use github
+以下两个程序代码均引用于《运筹学基础及其MATLAB英语》
+作者 李工农
 MATLAB程序
 Ssimplex.m利用单纯形法求解简单的标准线性规划问题 
 例  利用MATLAB程序Ssimplex.m求解如下线性规划问题：
